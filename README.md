@@ -12,3 +12,4 @@ Mata Kuliah : Bahasa Pemograman
 ## mencari bilangan terbesar dari bilangan yang diinputkan
 program ini menentukan bilangan terbesar dari serangkaian bilangan yang di inputkan hingga input 0. program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan. 
 
+![foto](https://github.com/Elisabethbanjarnahor/Foto/blob/33ea8335445697fa2cfe0b33278693033a996770/IMG_20241015_125945.jpg) 
