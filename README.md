@@ -33,7 +33,7 @@ while True:
 
 
 print("Bilangan terbesar adalah:", bilangan_terbesar)
-
+'''
 ![foto](https://github.com/Elisabethbanjarnahor/Hasil-code-dari-flowchart-tugas-4/blob/8cb574ba6a517080f4eadf4cee17692ad8c9aac2/Screenshot_2024_1021_224140.jpg) 
 
 bilangan_terbesar = 0
